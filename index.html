@@ -8,12 +8,12 @@ author_profile: true
 
 
 ---
+---
 layout: splash
 title: "Welcome"
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/your-background.jpg" <!-- Optional: remove if not using -->
   cta_label: "View My Work"
   cta_url: "/portfolio/"
   caption: "Personal portfolio showcasing projects and ideas"
@@ -29,9 +29,25 @@ excerpt: "Exploring computer science, cybersecurity, and technology's role in so
       <h4 class="archive__item-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h4>
-      <p class="archive__item-excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 120 }}</p>
+      <p class="archive__item-excerpt">
+        {% if post.excerpt %}
+          {{ post.excerpt | markdownify | strip_html | truncate: 120 }}
+        {% else %}
+          {{ post.content | markdownify | strip_html | truncate: 120 }}
+        {% endif %}
+      </p>
     </article>
   {% endfor %}
+</div>
+
+<div class="grid__item">
+  <h3 class="archive__subtitle">Projects</h3>
+  <p>Check out my portfolio of technical projects:</p>
+  <ul>
+    <li><a href="/portfolio/project-1/">Cybersecurity Analysis Tool</a></li>
+    <li><a href="/portfolio/project-2/">AI Ethics Framework</a></li>
+    <li><a href="/portfolio/">View all projects →</a></li>
+  </ul>
 </div>
 
 <div class="grid__item">
