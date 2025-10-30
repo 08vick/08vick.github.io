@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
+title: Victor Odhiambo
+email:vickodhis.vn@gmail,com
+description: >- 
 Exploring various aspects of computer science, including software engineering, algorithms, cybersecurity, artificial intelligence, and its application to global issues.  Thoughtful analysis, lucid explanations, and useful ideas for both professionals and students.
 twitter_username: username
 github_username: 08vick
