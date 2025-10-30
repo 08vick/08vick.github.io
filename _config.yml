@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Victor Odhiambo"
-  avatar : "/assets/images/IMG_8011"
+  avatar : "/assets/images/IMG_8011.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
