@@ -1,9 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: true
+title: "Victor Odhiambo"
+permalink: /
 ---
 
 ## About Me
@@ -25,9 +24,9 @@ I'm a computer science enthusiast with a focus on **cybersecurity**, **software 
 
 ## Certifications
 
-- [CompTIA Security+](https://www.comptia.org/)  
-- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)  
-- [AWS Cloud Practitioner](https://aws.amazon.com/certification/)  
+- [CompTIA Security+](https://www.comptia.org/)
+- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
+- [AWS Cloud Practitioner](https://aws.amazon.com/certification/)
 - [Cisco Networking Basics](https://skillsforall.com/)
 
 > *More details in my [CV](/assets/documents/Victor_Odhiambo_CV.pdf)*
