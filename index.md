@@ -13,26 +13,23 @@ I'm a computer science enthusiast with a focus on **cybersecurity**, **software 
 ## Education
 
 - **BSc in Computer Science**  
-  [University Name], [Location]  
-  *[Year Started] – [Year Graduated]*
+  The Presbyterian University of East Africa, Kikuyu  
+  *2019 – 2023*
 
-- **Relevant Coursework**:  
-  Network Security, Algorithms, Operating Systems, Ethical Hacking, Data Structures
 
 ---
 
 ## Certifications
 
-- [CompTIA Security+](https://www.comptia.org/)  
-- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)  
-- [AWS Cloud Practitioner](https://aws.amazon.com/certification/)  
-- [Cisco Networking Basics](https://skillsforall.com/)
 
-> *More details in my [CV](/assets/documents/Victor_Odhiambo_CV.pdf)*
+- AWS Cloud Practitioner(https://aws.amazon.com/certification/)  
+- Cisco Introduction to Cybersecurity(https://skillsforall.com/)
+
+> *More details in my [CV](/assets/documents/VICTOR-NYABERI-ODHIAMBO.pdf)*
 
 ---
 
 ## Links
 
-- 📄 [Download My CV](/assets/documents/Victor_Odhiambo_CV.pdf)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile
+- 📄 [Download My CV](/assets/documents/VICTOR-NYABERI-ODHIAMBO.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/odhiambov
