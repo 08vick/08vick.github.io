@@ -1,29 +1,34 @@
 ---
-layout: splash
-title: "Victor Odhiambo"
-excerpt: "Computer Science • Cybersecurity • Technology"
-header:
-  overlay_color: "#2c3e50"
-  actions:
-    - label: "View My CV"
-      url: "/assets/documents/Victor_Odhiambo_CV.pdf"
-    - label: "GitHub"
-      url: "https://github.com/yourusername"
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: single
+author_profile: true
 ---
 
 ## About Me
-I'm a computer science enthusiast with a focus on **cybersecurity**, **software development**, and **responsible technology**.
+
+I'm a computer science enthusiast with a focus on **cybersecurity**, **software development**, and **responsible technology**. I enjoy solving real-world problems through code, research, and continuous learning.
+
+---
 
 ## Education
+
 - **BSc in Computer Science**  
   [University Name], [Location]  
   *[Year Started] – [Year Graduated]*
 
+- **Relevant Coursework**:  
+  Network Security, Algorithms, Operating Systems, Ethical Hacking, Data Structures
+
+---
+
 ## Certifications
-- [CompTIA Security+](https://www.comptia.org/)
-- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
-- [AWS Cloud Practitioner](https://aws.amazon.com/certification/)
+
+- [CompTIA Security+](https://www.comptia.org/)  
+- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)  
+- [AWS Cloud Practitioner](https://aws.amazon.com/certification/)  
 - [Cisco Networking Basics](https://skillsforall.com/)
+
+> *More details in my [CV](/assets/documents/Victor_Odhiambo_CV.pdf)*
 
 ---
 
