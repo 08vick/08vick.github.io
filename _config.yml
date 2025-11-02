@@ -16,9 +16,8 @@
 title: Victor Odhiambo
 email: vickodhis.vn@gmail.com
 description: Cybersecurity Enthusiast
-instagram_username: _nyab3ri_
 github_username: 08vick
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -59,30 +58,29 @@ author:
   avatar : "/assets/images/IMG_8011.jpg"
   bio    : "Exploring various aspects of computer science, including software engineering, algorithms, cybersecurity, artificial intelligence, and its application to global issues.  Thoughtful analysis, lucid explanations, and useful ideas for both professionals and students."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+   # - label: "Website"
+   #  url: "https://"
+   # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/08vick/"
+   # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+   # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/08vick/"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+     # url: "https://instagram.com/"
 
 defaults:
   # _posts
