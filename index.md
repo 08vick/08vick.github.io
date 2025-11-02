@@ -8,8 +8,6 @@ author_profile: true
 
 
 ---
-layout: splash
-title: "Victor Odhiambo"
 permalink: /
 header:
   overlay_color: "#2c3e50"
