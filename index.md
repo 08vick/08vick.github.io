@@ -6,13 +6,6 @@ layout: home
 author_profile: true
 ---
 
-
----
-permalink: /
-header:
-  overlay_color: "#2c3e50"
-  caption: "Computer Science • Cybersecurity • Technology"
-excerpt: "Building secure, ethical, and impactful technology solutions."
 ---
 
 ## About Me
