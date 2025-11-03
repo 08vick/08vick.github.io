@@ -12,6 +12,10 @@ I'm a computer science enthusiast with a focus on **cybersecurity**, **software 
 
 ## Education
 
+- **AI in Software Engineering**
+  Power Learn Project
+  *07/2025 - Present*
+
 - **BSc in Computer Science**  
   The Presbyterian University of East Africa, Kikuyu  
   *2019 – 2023*
