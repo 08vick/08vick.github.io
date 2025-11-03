@@ -1,7 +1,7 @@
 ---
 title: "My Projects"
 permalink: /projects/
-layout: archive
+layout: single
 author_profile: true
 ---
 
