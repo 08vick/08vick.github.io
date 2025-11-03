@@ -9,12 +9,7 @@ layout: single
 - **Tech**: Python, HTML, Flask, Scikit-learn  
 - [GitHub](https://github.com/08vick/mother_and_child)
 
-### 🤖 SentimentBot  
-*Real-time tweet sentiment analyzer using NLP.*  
-- **Tech**: Python, Hugging Face Transformers, Streamlit  
-- [GitHub](https://github.com/yourname/sentimentbot) | [Live Demo](https://sentimentbot.streamlit.app)  
-
-### 🧠 PathFinder Visualizer  
-*Interactive Dijkstra’s & A* algorithm demo.*  
-- **Tech**: JavaScript, p5.js  
-- [GitHub](https://github.com/yourname/pathfinder) | [Try It](https://yourname.github.io/pathfinder)
+### 🤖 E-learn  
+*This is a mini e-learning platform that allows learners to: View a list of courses (at least 3). See course details when clicked. Mark a course as “completed”. Including user login or sign-up functionality..*  
+- **Tech**: Python, HTML 
+- [GitHub](https://github.com/08vick/vibecoding-wk01/blob/main/elearning.html)
