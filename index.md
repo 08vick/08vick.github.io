@@ -36,4 +36,4 @@ I'm a computer science enthusiast with a focus on **cybersecurity**, **software 
 ## Links
 
 - 📄 [Download My CV](/assets/documents/VICTOR-NYABERI-ODHIAMBO.pdf)
-- 💼 [LinkedIn](https://www.linkedin.com/in/odhiambov
+- 💼 [LinkedIn](https://www.linkedin.com/in/odhiambov)
