@@ -28,6 +28,7 @@ I'm a computer science enthusiast with a focus on **cybersecurity**, **software 
 
 - AWS Cloud Practitioner(https://aws.amazon.com/certification/)  
 - Cisco Introduction to Cybersecurity(https://skillsforall.com/)
+- Data Protection
 
 > *More details in my [CV](/assets/documents/VICTOR-NYABERI-ODHIAMBO.pdf)*
 
