@@ -1,7 +1,7 @@
 ---
 permalink: /contacts/
 title: "Contacts"
-layout: "contacts"
+layout: "splash"
 ---
 
 
