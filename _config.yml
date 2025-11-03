@@ -105,12 +105,12 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+#category_archive:
+  #type: liquid
+ # path: /categories/
+projects:
   type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+  path: /projects/
 contacts:
   type: liquid
   path: /contacts/
