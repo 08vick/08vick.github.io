@@ -1,7 +1,7 @@
 ---
-permalink: /Contact/
-title: "Contact"
-layout: "Contact"
+permalink: /Contacts/
+title: "Contacts"
+layout: "Contacts"
 ---
 
 
