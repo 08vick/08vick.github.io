@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-## About Me
+## Victor Odhiambo
 
 I'm a computer science enthusiast with a focus on **cybersecurity**, **software development**, and **responsible technology**. I enjoy solving real-world problems through code, research, and continuous learning.
 
